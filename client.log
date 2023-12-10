@@ -1,0 +1,9 @@
+DEBUG | 2023-12-11 00:05:17,669 | the func sent: eitan
+DEBUG | 2023-12-11 00:05:17,669 | the message received: undefined function
+DEBUG | 2023-12-11 00:05:19,631 | the func sent: lol
+DEBUG | 2023-12-11 00:05:19,631 | the message received: undefined function
+DEBUG | 2023-12-11 00:05:32,556 | the func sent: folder_dir c:/temp
+DEBUG | 2023-12-11 00:05:32,557 | the message received: ['c:/temp\\test2.txt', 'c:/temp\\test3.txt', 'c:/temp\\test4.txt', 'c:/temp\\test5.txt']
+DEBUG | 2023-12-11 00:05:48,371 | the func sent: folder_dir c:/temp pyr
+DEBUG | 2023-12-11 00:05:48,371 | the message received: parameters are wrong
+DEBUG | 2023-12-11 00:06:01,364 | the func sent: exit
